@@ -13,9 +13,6 @@ jpeg=9b=hb83a4c4_2
 kiwisolver=1.0.1=py37h6538335_0
 libpng=1.6.35=h2a8f88b_0
 matplotlib=3.0.1=py37hc8f65d3_0
-mkl=2019.0=118
-mkl_fft=1.0.6=py37hdbbee80_0
-mkl_random=1.0.1=py37h77b88f5_1
 numpy=1.15.4=py37ha559c80_0
 numpy-base=1.15.4=py37h8128ebf_0
 openssl=1.0.2p=hfa6e2cd_0
